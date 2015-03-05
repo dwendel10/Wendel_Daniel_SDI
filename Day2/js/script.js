@@ -132,19 +132,19 @@ console.log(assign);
 assign *= 7;
 console.log(assign);
 
-// strings - any text that we use
-// quotes are needed to distinguish between variables and plan text
+// strings - any text that we use;
+// quotes are needed to distinguish between variables and plan text;
 
 var kermit = "light green";
 var frogName = "kermit";
 console.log(frogName);
 
-// To double quote or not to double quote
-// Can use an escape character \ backslash in front of the '
+// To double quote or not to double quote;
+// Can use an escape character \ backslash in front of the ';
 var phrase = 'I don\'t know';
 console.log(phrase);
 
-// Escape character can also do multiple lines \n - new line character
+// Escape character can also do multiple lines \n - new line character;
 
 var pharse2 = "I don't know. \nYou never do!";
 console.log(pharse2);
@@ -173,3 +173,28 @@ var average = (quiz1 + quiz2 + quiz3) /3;
 
 console.log(average);
 
+
+//Concatenation - combining text strings
+//use the + plus sign - add and concatenation
+
+var firstName = "Kermit";
+var lastName = "The Frog";
+var fullName = firstName +" "+ lastName
+console.log(fullName);
+
+var d = "6";
+var e = "7";
+// If you want the text string to be a number you have to cast it.;
+//Number();
+//NaN is short for not a number;
+var combined = d+e;
+console.log(combined);
+
+//var pi = 3.14 use this for homework;
+// To round a number we use the .toFix(#) method
+
+var num= 5.678912345;
+
+//Round to 2 decimal places
+var n = num.toFixed(2);
+console.log(n);
