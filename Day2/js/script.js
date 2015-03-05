@@ -197,4 +197,7 @@ var num= 5.678912345;
 
 //Round to 2 decimal places
 var n = num.toFixed(2);
-console.log(n);
+console.log("The rounding number to 2 decimal places is "+n);
+
+
+
