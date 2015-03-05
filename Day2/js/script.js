@@ -45,3 +45,51 @@ a+3;
 a = a+3;
 console.log(a);
 
+// declare new variable
+var b;
+//define this variable using an existing variable
+b = a+3;
+console.log(a);
+console.log(b);
+
+// simple math
+// find our ages
+
+//Declare and define the year we were born
+var yearBorn = 1992;
+
+
+//2015 - year we are born
+
+var ourAge = 2015-yearBorn
+console.log(ourAge);
+
+//Talk about math
+// +, -, *, /
+
+//Find the area of a triangle
+// base* height/2
+
+var base = 8;
+var height = 5;
+
+var areaTriangle= base * height/ 2;
+console.log(areaTriangle);
+
+// Modulo = %
+// Gives the remainder
+
+//sparky uses modulo
+
+var decimal = 32/10;
+console.log(decimal);
+
+var remainder =32%10;
+console.log(remainder);
+
+//Find out if even or odd
+//Modulo %2 1=odd  0=even
+var evenOrOdd = 67%2;
+console.log(evenOrOdd);
+
+
