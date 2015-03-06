@@ -33,15 +33,10 @@ var pizzaPerPerson = amountOfPizza / peopleAtParty;
 console.log("The amount of pizza per person is " + pizzaPerPerson);
 
 
-//Pizza for sparky
+//Pizza for sparky;
 
-
-
-
-
-
-
-
+var pizzaForSparky = 8%7
+console.log("Sparky will get this much pizza " + pizzaForSparky);
 
 
 
@@ -49,9 +44,18 @@ console.log("The amount of pizza per person is " + pizzaPerPerson);
 
 
 var groceryBills = 5
+
 var spentOnGroceries = 150.00
+
 var weeklySpendings = spentOnGroceries / groceryBills;
+
 console.log("The amount spent on a weekly basis is " + weeklySpendings)
+
+
+// Calculating discounted price for items.;
+
+var originalPrice = 100
+var discountPercent = 5
 
 
 
