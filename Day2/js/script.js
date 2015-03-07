@@ -92,7 +92,7 @@ console.log(remainder);
 var evenOrOdd = 67%2;
 console.log(evenOrOdd);
 
-//Assignment operators
+//ASSIGNMENT OPERATORS
 /*
 = Assigns the value to the variable
 ++ adds 1 to the current value of the variable
