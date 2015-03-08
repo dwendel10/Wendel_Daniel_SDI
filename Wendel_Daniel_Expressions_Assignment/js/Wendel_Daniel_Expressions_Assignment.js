@@ -30,6 +30,7 @@ console.log("This is the total amount you make in a year " +totalIncome+ ".");
 
 //Now lets find out the average spent over the year on video games.
 
-totalIncome/=12;
-console.log("The average you spend on video games yearly is " +totalIncome+".");
+totalIncome-=yearlyCost;
+console.log("After buying the video games this is how much you will have left over " +totalIncome+".");
 
+/*
