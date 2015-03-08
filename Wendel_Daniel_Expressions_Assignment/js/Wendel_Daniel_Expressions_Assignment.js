@@ -18,15 +18,18 @@ var yearlyCost = storeVisitsPerMonth * costOfGames * gamesBoughtPerVisit * month
 console.log ("This is the amount you spend per year on video games!! $" + yearlyCost);
 
 // I typed 5 for storeVisitsPerMonth, 1 for gamesBoughtPerVisit, and 45 for costOfGames. The result was 2700 per year.
+
+
 //Yearly Income
 
 var incomeFromJobs = [10000,5000,13000];
 
 // Add the income
 var totalIncome = incomeFromJobs[0] + incomeFromJobs[1] + incomeFromJobs[2];
-console.log(totalIncome);
+console.log("This is the total amount you make in a year " +totalIncome+ ".");
 
-//Now lets find out the average spent over the year.
+//Now lets find out the average spent over the year on video games.
 
 totalIncome/=12;
-console.log(totalIncome);
+console.log("The average you spend on video games yearly is " +totalIncome+".");
+
