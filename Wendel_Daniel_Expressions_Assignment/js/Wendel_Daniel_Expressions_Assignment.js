@@ -33,4 +33,6 @@ console.log("This is the total amount you make in a year " +totalIncome+ ".");
 totalIncome-=yearlyCost;
 console.log("After buying the video games this is how much you will have left over " +totalIncome+".");
 
-/*
+/* For the final test the numbers I tried were 4 for the storeVisitsPerMonth, 2 for gamesBoughPerVisit,
+and 50 for costOfGames.The result of those numbers were 4800!
+ */
