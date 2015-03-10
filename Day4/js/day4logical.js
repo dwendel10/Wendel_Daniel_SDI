@@ -55,3 +55,5 @@ if(budget>= carPrice && payCheck > 1500){
 } else {
     console.log("Pick a cheaper car or get a better job ");
 }
+
+
