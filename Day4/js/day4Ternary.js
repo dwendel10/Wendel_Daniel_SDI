@@ -50,5 +50,4 @@ if(age<10){
 } else {
     bookBasic = "The Time Machine"
 }
-console.log()bookBasic;
-
+console.log(bookBasic);
