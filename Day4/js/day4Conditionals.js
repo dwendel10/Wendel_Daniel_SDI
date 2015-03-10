@@ -18,7 +18,7 @@ if (conditions to test){
 
 var oldEnough = false;
 
-//if the kis is old enough he can ride the ride
+//if the kid is old enough he can ride the ride
 if(oldEnough){
     //code to run if the kid is old enough
     console.log("The kid is old enough to ride the coaster. ");

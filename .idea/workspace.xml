@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e68a3c42-c7bc-4b58-907c-c132e184a24d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day4/js/day4Ternary.js" afterPath="$PROJECT_DIR$/Day4/js/day4Ternary.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conditionals_worksheet/js/conditionalsworksheet.js" afterPath="$PROJECT_DIR$/conditionals_worksheet/js/conditionalsworksheet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day4/js/day4Conditionals.js" afterPath="$PROJECT_DIR$/Day4/js/day4Conditionals.js" />
     </list>
     <ignored path="Wendel_Daniel_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +40,8 @@
       <file leaf-file-name="day4Conditionals.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day4/js/day4Conditionals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="870">
-              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="870">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -61,8 +62,8 @@
       <file leaf-file-name="day4logical.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day4/js/day4logical.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="975">
-              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -83,7 +84,7 @@
       <file leaf-file-name="day4Ternary.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day4/js/day4Ternary.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="177" max-vertical-offset="885">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
               <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -105,8 +106,8 @@
       <file leaf-file-name="conditionalsworksheet.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conditionals_worksheet/js/conditionalsworksheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12987013" vertical-offset="0" max-vertical-offset="693">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.64935064" vertical-offset="0" max-vertical-offset="693">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -138,7 +139,6 @@
         <option value="$PROJECT_DIR$/Wendel_Daniel_Expressions_Assignment/js/Wendel_Daniel_Expressions_Assignment.js" />
         <option value="$PROJECT_DIR$/Day3/js/day3arrays.js" />
         <option value="$PROJECT_DIR$/Day4/day4Conditionals.html" />
-        <option value="$PROJECT_DIR$/Day4/js/day4Conditionals.js" />
         <option value="$PROJECT_DIR$/Day4/day4logical.html" />
         <option value="$PROJECT_DIR$/Day4/js/day4logical.js" />
         <option value="$PROJECT_DIR$/Day4/day4Ternany.html" />
@@ -146,6 +146,7 @@
         <option value="$PROJECT_DIR$/Day4/js/day4Ternary.js" />
         <option value="$PROJECT_DIR$/conditionals_worksheet/js.js" />
         <option value="$PROJECT_DIR$/conditionals_worksheet/conditionalsworksheet.html" />
+        <option value="$PROJECT_DIR$/Day4/js/day4Conditionals.js" />
         <option value="$PROJECT_DIR$/conditionals_worksheet/js/conditionalsworksheet.js" />
       </list>
     </option>
@@ -154,10 +155,26 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="286" />
-    <option name="y" value="45" />
-    <option name="width" value="1137" />
+    <option name="x" value="122" />
+    <option name="y" value="23" />
+    <option name="width" value="1097" />
     <option name="height" value="790" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -242,7 +259,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.lastSelected" value="preferences.editor" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -301,7 +318,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="286" y="45" width="1137" height="790" extended-state="0" />
+    <frame x="122" y="23" width="1097" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -309,7 +326,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20756376" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21513218" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -668,19 +685,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day4/day4Conditionals.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="150" max-vertical-offset="240">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day4/js/day4Conditionals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="177" max-vertical-offset="870">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -694,8 +701,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day4/js/day4logical.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="975">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -728,10 +735,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day4/js/day4Conditionals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="870">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/conditionals_worksheet/js/conditionalsworksheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12987013" vertical-offset="0" max-vertical-offset="693">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.64935064" vertical-offset="0" max-vertical-offset="693">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
