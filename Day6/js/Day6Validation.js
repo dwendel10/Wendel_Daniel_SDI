@@ -5,4 +5,25 @@ Section 00
 Day 6 Validation
  */
 
-alert("Last one");
+//alert("Last one");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
