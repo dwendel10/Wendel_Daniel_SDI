@@ -17,15 +17,21 @@ var distance = 200;
 var actualGallons = gasCapacity * (gasTank / 100);
 
 // MPG distance / gallons
-var actualMPG = actualGallons / distance;
+var actualMPG = actualGallons * gasMPG;
 
 // if actualMPG > gasMPG you can make it
 
-if(actualMPG > gasMPG){
+if(actualMPG > actualDistance){
     console.log("You can make it! ");
 } else {
     console.log("You cannot make it :( ");
 }
 
+
+
+// Celsius to Fahrenheit converter
+// create a variable for fahrenheit and celsius
+
+var degrees = prompt("Please enter your current temperature ");
 
 

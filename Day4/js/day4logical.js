@@ -36,7 +36,7 @@ if(budget>= carPrice ||payCheck > 1500 ){
 Truth table for || "Or"
 t || t = t
 t || f = t
-f |\ t = t
+f || t = t
 f || f = f
  */
 /*

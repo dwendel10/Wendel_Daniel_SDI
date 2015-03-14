@@ -22,10 +22,10 @@ console.log ("This is the amount you spend per year on video games!! $" + yearly
 
 //Yearly Income
 
-var incomeFromJobs = [10000,5000,13000];
+var incomeFromJobs = [34000];
 
 // Add the income
-var totalIncome = incomeFromJobs[0] + incomeFromJobs[1] + incomeFromJobs[2];
+var totalIncome = incomeFromJobs[0];
 console.log("This is the total amount you make in a year " +totalIncome+ ".");
 
 //Now lets find out the average spent over the year on video games.
