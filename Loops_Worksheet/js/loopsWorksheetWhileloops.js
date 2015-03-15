@@ -13,15 +13,17 @@ Loops Work Sheet
 
 var userBirthDay = prompt("Please enter the year you were born:");
 var currentYear = 2015;
-var userAge = currentYear - userBirthDay;
+var userAge = 0;
 
+while(isNaN(userBirthDay) || (userBirthDay ==="")){
+    if(userBirthDay === ""){
+        userBirthDay = prompt("Please do not leave blank and only use numbers.\nPlease enter the year you were born.");
 
-while(isNaN(userAge) || userAge ===""){
-    if(userAge === ""){
-        userAge = prompt("Please do not leave this blank and only use numbers.\nPlease enter the year you were born.")
-
-    } else if(isNaN(userAge)){
-        userAge = prompt("Please only use numbers!");
+    } else if(isNaN(userBirthDay)){
+        userBirthDay = prompt("Please only use numbers!");
     }
 }
+
+userAge = currentYear - userBirthDay;
+
 console.log(userAge);
