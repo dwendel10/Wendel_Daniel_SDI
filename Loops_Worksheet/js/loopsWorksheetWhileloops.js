@@ -26,4 +26,4 @@ while(isNaN(userBirthDay) || (userBirthDay ==="")){
 
 userAge = currentYear - userBirthDay;
 
-console.log(userAge);
+console.log("This is your current age " +userAge+".");

@@ -13,22 +13,23 @@ var baseOfParallelogram = prompt("Please enter the base of the parallelogram. ")
 
 var heightOfParallelogram = prompt("Please enter the height of the parallelogram. ");
 
+areaOfParallelogram = baseOfParallelogram * heightOfParallelogram;
+
 //Find the area of Parallelogram
 
-areaOfParallelogram = baseOfParallelogram * heightOfParallelogram;
 
 console.log("The base of the parallelogram was: " + baseOfParallelogram + "\nThe height of the parallelogram was:"+heightOfParallelogram+ "\nThe area of the parallelogram is:"+areaOfParallelogram);
 
 //conditional for empty prompt
 
-if(baseOfParallelogram == "" ){
-    console.log("Please do not leave blank and only enter numbers.\n Please enter the base of the Parallelogram.");
+if(baseOfParallelogram === "" ){
+    baseOfParallelogram = prompt ("Please do not leave blank and only enter numbers.\n Please enter the base of the Parallelogram.");
 } else {
     console.log("Please try again.");
 }
 
-if(heightOfParallelogram == ""){
-    console.log("Please do not leave blank and only enter numbers. \n Please enter the height of the Parallelogram.");
+if(heightOfParallelogram === ""){
+    heightOfParallelogram = prompt ("Please do not leave blank and only enter numbers. \n Please enter the height of the Parallelogram.");
 } else{
     console.log("Please try again.");
 }
