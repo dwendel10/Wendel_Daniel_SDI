@@ -10,7 +10,7 @@ Day 6 Loops
 
 
 // Basic while loop
-
+// while loops are used for validations
 //Start a counter variable
 var counter = 0;
 

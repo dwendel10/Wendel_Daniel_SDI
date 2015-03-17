@@ -16,7 +16,7 @@ for(var i = 0; i<20; i++){
 }
 
 
-//Break in a loop
+//Break in a loop - breaks stop the code once the loop hits the break.
 
 for(var j = 0; j<5; j++){
    //Conditional to test if we should break the loop
