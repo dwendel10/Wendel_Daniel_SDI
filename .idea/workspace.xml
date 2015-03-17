@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e68a3c42-c7bc-4b58-907c-c132e184a24d" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day7 Loops-Arrays-function-scope/Day 7 Arguements.html" afterPath="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/Day 7 Arguements.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day7 Loops-Arrays-function-scope/Day7Functions.html" afterPath="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/Day7Functions.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day7 Loops-Arrays-function-scope/Day7LoopArrays.html" afterPath="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/Day7LoopArrays.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day7 Loops-Arrays-function-scope/Day7Scope.html" afterPath="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/Day7Scope.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day7 Loops-Arrays-function-scope/Day7Zombies.html" afterPath="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/Day7Zombies.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day7 Loops-Arrays-function-scope/Day7beer.html" afterPath="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/Day7beer.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day7 Loops-Arrays-function-scope/js/Day7Arguements.js" afterPath="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/js/Day7Arguements.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day7 Loops-Arrays-function-scope/js/Day7Functions.js" afterPath="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/js/Day7Functions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day7 Loops-Arrays-function-scope/js/Day7LoopArrays.js" afterPath="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/js/Day7LoopArrays.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day7 Loops-Arrays-function-scope/js/Day7Zombies.js" afterPath="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/js/Day7Zombies.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day7 Loops-Arrays-function-scope/js/Day7beer.js" afterPath="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/js/Day7beer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day7 Loops-Arrays-function-scope/js/day7Scope.js" afterPath="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/js/day7Scope.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e68a3c42-c7bc-4b58-907c-c132e184a24d" name="Default" comment="" />
     <ignored path="Wendel_Daniel_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,14 +24,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Day7Arguements.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Day7Arguements.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/js/Day7Arguements.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.95671" vertical-offset="87" max-vertical-offset="870">
-              <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Day7Return.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/js/Day7Return.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.15151516" vertical-offset="0" max-vertical-offset="693">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Day7Return.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/Day7Return.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -68,9 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day3/day3prompts.html" />
-        <option value="$PROJECT_DIR$/Day3/js/day3prompts.js" />
-        <option value="$PROJECT_DIR$/Day3/Day3Casting.html" />
         <option value="$PROJECT_DIR$/Day3/js/Day3Casting.js" />
         <option value="$PROJECT_DIR$/Wendel_Daniel_Expressions_Assignment/Wendel_Daniel_Expressions_Assignment.html" />
         <option value="$PROJECT_DIR$/Day3/js/day3arrays.js" />
@@ -119,6 +124,9 @@
         <option value="$PROJECT_DIR$/Day7 Loops-Arrays-function-scope/Day 7 Arguements.html" />
         <option value="$PROJECT_DIR$/Day7 Loops-Arrays-function-scope/js/Day7Arguements.js" />
         <option value="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/js/Day7Arguements.js" />
+        <option value="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/Day7Retun.html" />
+        <option value="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/Day7Return.html" />
+        <option value="$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/js/Day7Return.js" />
       </list>
     </option>
   </component>
@@ -368,20 +376,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/firstFIle.rtf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day3 Arrays/Day3Casting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22421524" vertical-offset="0" max-vertical-offset="669">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day3 Arrays/day3prompts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22421524" vertical-offset="0" max-vertical-offset="669">
@@ -746,8 +740,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/js/Day7Arguements.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.95671" vertical-offset="87" max-vertical-offset="870">
-          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/Day7Return.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7LoopsArraysFunctionScopeArguments/js/Day7Return.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15151516" vertical-offset="0" max-vertical-offset="693">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
