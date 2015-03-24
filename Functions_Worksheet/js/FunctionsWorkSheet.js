@@ -21,13 +21,13 @@ var p = 3.14;
 // /radius
 var r = prompt("Please enter the radius.");
 
-/*while(isNaN(r) || r === "")
+while(isNaN(r) || r === ""){
 
     if(isNaN(r)){
-        r = ("Please only enter numbers.")
+        r = prompt ("Please only enter numbers.")
     } else if(r ==="")
-        r = ("Please do not leave blank.");
-*/
+        r = prompt ("Please do not leave blank.");
+}
 
 calcCircumference(p,r);
 

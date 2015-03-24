@@ -25,7 +25,7 @@ while(isNaN(min) || min === "" ){
     min = prompt("Please do not leave blank and only use numbers.\n What is the min value? ");
 }
 
-var max = prompt("Please enter a value:");
+var max = prompt("Please enter a max value:");
 
 while(isNaN(max) || max === "" || parseInt(max) <= parseInt(min)) {
 
