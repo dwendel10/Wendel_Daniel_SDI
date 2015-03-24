@@ -32,7 +32,7 @@ console.log(rectArea);
 //Create a function to calc the area of a circle
 function circleArea(r){
     //calc area PI * r*r
-    var area = Math.PI *r * r
+    var area = Math.PI *r * r;
     //Return the value
     return area;
 

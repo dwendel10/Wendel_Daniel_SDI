@@ -10,7 +10,7 @@ Day 4 Ternary
 // if your gpa is over 2.0 then you can graduate
 
 // Create a variable for gpa
-var gpa = 3.5
+var gpa = 3.5;
 
 //Basic conditional
 if(gpa > 2.0){
