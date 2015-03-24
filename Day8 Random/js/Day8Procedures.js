@@ -10,7 +10,7 @@
 //this is a basic function
 
 function calcAreaF(w,h){
-    var area = w * h
+    var area = w * h;
     return area;
 }
 
