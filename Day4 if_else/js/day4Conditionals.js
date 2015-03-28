@@ -38,7 +38,7 @@ var kidHeight = 47;
 var minHeight = 48;
 
 //Create a variable for sneaker lifts
-var sneakerLifts = 2
+var sneakerLifts = 2;
 
 // Test the kids height
 if(kidHeight > minHeight){
