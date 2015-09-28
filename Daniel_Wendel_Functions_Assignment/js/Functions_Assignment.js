@@ -34,32 +34,17 @@ while(isNaN(totalCost) || totalCost ==="") {
 
     totalCost = prompt("Please do not leave blank and only use numbers. \n What is the total cost of your loan? ");
 
-    if (isNaN(totalCost)) {
-        totalCost = prompt("Please only enter numbers. \n What is the total cost of your loan?");
-
-    } else if (totalCost === "") {
-        totalCost = prompt("Please do not leave blank. \n What is the total cost of your loan?");
-
-    }
 }
 //Prompt user for the loan term
 
 var loanTerm = prompt("Please enter the term of the loan in months.");
 
 //Validation
-while(isNaN(loanTerm) || loanTerm ==="" || loanTerm < 12 ) {
+while(isNaN(loanTerm) || loanTerm ==="" ) {
 //re-prompt user
+
     loanTerm = prompt("Please do not leave blank and only use numbers. \n What is the term of the loan?");
 
-    if (isNaN(loanTerm)) {
-        loanTerm = prompt("Please only use numbers.\n What is the term of your loan?");
-
-    } else if (loanTerm === "") {
-        loanTerm = prompt("Please do not leave blank. \n WHat is the term of your loan?");
-
-    } else if (loanTerm < 12){
-        loanTerm = prompt("Please enter the monthly amount of the loan period.");
-    }
 }
     //Prompt for interest rate
 
@@ -68,14 +53,9 @@ var interestRate = prompt("Please enter the interest rate for your loan.");
 //Validation
 while(isNaN(interestRate) || interestRate ===""){
     // re-prompt user
+
     interestRate = prompt("Please do not leave blank and only use numbers. \n What is the interest rate?");
 
-    if(isNaN(interestRate)){
-        interestRate = prompt("Please only use numbers.\n WHat is the interest rate?");
-
-    } else if(interestRate === ""){
-        interestRate = prompt("Please do not leave blank. \n What is the interest rate?");
-    }
 }
 
 //Total cost of the users monthly for the car

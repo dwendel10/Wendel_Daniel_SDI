@@ -19,7 +19,7 @@ console.log(avengersNames[2]);
 
 //Swap items in our array
 
-avengersNames[1] = "Black widow"
+avengersNames[1] = "Black widow";
 console.log(avengersNames);
 
 

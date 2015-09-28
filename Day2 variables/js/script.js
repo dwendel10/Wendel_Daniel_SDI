@@ -41,7 +41,7 @@ console.log(whatever1);
 var a = 2;
 console.log(a);
 
-a+3;
+
 a = a+3;
 console.log(a);
 

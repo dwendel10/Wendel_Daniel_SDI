@@ -100,6 +100,7 @@ var discountPercent = prompt("Please enter the discount.");
 
 //validate
 while(discountPercent ==="" || isNaN(discountPercent)){
+    //Re prompt user
     discountPercent = prompt("Please do not leave blank and only use numbers.\n Enter the discount.");
 
 }
